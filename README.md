@@ -4,7 +4,7 @@
 
 A simple react based quote app for inspiration and fun.All the quotes are generated from Kanye.rest Api. When clicked on next button, another quote will be generated.
 
-Quote App is hosted on Heroku. Check it out live:
+Quote App is hosted on Heroku. Check it out live: https://salty-plateau-79147.herokuapp.com/
 
 ## Installation
 
